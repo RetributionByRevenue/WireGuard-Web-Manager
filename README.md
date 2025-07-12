@@ -2,6 +2,11 @@
 
 A simple, lightweight web interface for managing WireGuard VPN configurations. Built with minimal dependencies to work across a wide range of Linux distributions.
 
+# Showcase
+<img src=https://raw.githubusercontent.com/RetributionByRevenue/WireGuard-Web-Manager/refs/heads/main/web1.png>
+<img src=https://raw.githubusercontent.com/RetributionByRevenue/WireGuard-Web-Manager/refs/heads/main/web2.png>
+<img src=https://raw.githubusercontent.com/RetributionByRevenue/WireGuard-Web-Manager/refs/heads/main/web3.png>
+
 ## Features
 
 - **Server Configuration Management**: Generate and manage WireGuard server configurations
